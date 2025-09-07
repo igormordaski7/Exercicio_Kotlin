@@ -1,4 +1,4 @@
-package com.example.desafio_jetpackcompose;
+package com.example.desafio_kotlin;
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
